@@ -1,3 +1,10 @@
 print ("welcome to the food ordering chatbot")
-name = input("what is your name?")
+name = input("what is your name? ")
 age = input("hello" + name + " how old are you? ")
+print (" welcome" + name + "!" " how may I help you today? ")
+
+print ("please choose from the following options")
+print ("1. placeholder option 1")
+print ("2. placeholder option 2")
+print ("3. placeholder option 3")
+print ("4. exit the converstion") 
